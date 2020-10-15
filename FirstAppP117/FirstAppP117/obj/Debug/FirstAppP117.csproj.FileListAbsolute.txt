@@ -1,0 +1,6 @@
+E:\P117\FirstAppP117\FirstAppP117\bin\Debug\FirstAppP117.exe.config
+E:\P117\FirstAppP117\FirstAppP117\bin\Debug\FirstAppP117.exe
+E:\P117\FirstAppP117\FirstAppP117\bin\Debug\FirstAppP117.pdb
+E:\P117\FirstAppP117\FirstAppP117\obj\Debug\FirstAppP117.csprojAssemblyReference.cache
+E:\P117\FirstAppP117\FirstAppP117\obj\Debug\FirstAppP117.exe
+E:\P117\FirstAppP117\FirstAppP117\obj\Debug\FirstAppP117.pdb
